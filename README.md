@@ -37,9 +37,8 @@ The target variable is the median house value.
 house-price-prediction-ml/
 │
 ├── README.md
-├── notebook/
-│   └── house_price_prediction.ipynb
-└── src/
+└── notebook/
+    └── house_price_prediction.ipynb
 ```
 
 ## Models
